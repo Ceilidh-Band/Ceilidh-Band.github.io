@@ -1,2 +1,2 @@
-# Woodside-Ceilidh-Band.github.io
-Website for Woodside Ceilidh Band
+# Ceilidh-Band.github.io
+Website for Ceilidh Band
