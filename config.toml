@@ -59,8 +59,8 @@ title = 'coHub'
   copyright = "© {year} Some Ceilidh Band"
   formspreeURL = "https://formspree.io/mbjwlead"
   googleAnalytics = "G-JZ95FEWF9K"
-  logo = "images/bandlogo.png"
-  footerlogo = "images/bandlogo.png"
+  logo = "images/bandlogo2.png"
+  footerlogo = "images/bandlogo2.png"
   footerDescription = ""
 
   [params.address]
