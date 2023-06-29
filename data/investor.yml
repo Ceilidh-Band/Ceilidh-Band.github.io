@@ -1,32 +1,19 @@
 ---
 enable: true
-title: "Our Angel Investors"
+title: "Meet the Band"
 subtitle: >
-          Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, 
-          convallis at tellus. Nulla quis lorem ut libero malesuada feugiat.
+          Our band members have a diverse range of experience in event entertainment.
 investor:
-  - name: "Spider Web"
-    post: "investor"
-    image: "images/team/design-team-01.jpg"
-  - name: "yrban"
-    post: "investor"
+  - name: "Ian"
+    post: "Percussion"
+    description: He does all of the drum stuff. Good at drumming. askdfa lkdjfa ldfjkfjafd jalj dflajdals djfaadsfa.
+    image: "images/team/design-team-01.jpg" 
+  - name: "Ashley"
+    post: "Keys"
+    description: He does all of the key stuff. Good at keys. askdfalkdjfa ldfjkfj afdjaljdf lajdalsd jfaadsfa.
     image: "images/team/design-team-02.jpg"
-  - name: "staticsoft"
-    post: "investor"
+  - name: "Ross"
+    post: "Fiddle"
+    description: He does all of the fiddle stuff. Good at fiddle. askd falkdjf aldfj kfjaf djaljd flajda lsdjfa adsfa.
     image: "images/team/design-team-03.jpg"
-  - name: "jackmaster"
-    post: "investor"
-    image: "images/team/marketing-team-01.jpg"
-  - name: "Franc Marketing"
-    post: "investor"
-    image: "images/team/marketing-team-05.jpg"
-  - name: "British Marketer"
-    post: "investor"
-    image: "images/team/marketing-team-03.jpg"
-  - name: "Spider Web"
-    post: "investor"
-    image: "images/team/design-team-01.jpg"
-  - name: "yrban"
-    post: "investor"
-    image: "images/team/design-team-02.jpg"
 ---

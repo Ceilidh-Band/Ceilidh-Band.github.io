@@ -1,9 +1,8 @@
 ---
-enable: true
-title: "Valuable Feedback"
+enable: false
+title: "Testimonial"
 feedback: >
-          ‘We achieved a cost-savings project while achieving cultural transformation to collaborate better together.
-            Our innovation lab brings ideas, skills and importantly, individuals together to enable innovation.’
-feedbackAuthor: "FRANCIS VAN PARYS, PRESIDENT AND CEO, GE HEALTHCARE KOREA"
+          ‘Cool band’
+feedbackAuthor: "A PERSON, GLASGOW"
 backgroundImage: images/testimonial-bg.jpg
 ---

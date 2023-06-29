@@ -1,8 +1,9 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "A person"
+    testimonialDetails: "Great ceilidh and music"
+  - author: "Another person"
+    testimonialDetails: "Piper was pretty cool"
+backgroundImage: images/testimonial-bg.jpg
 ---

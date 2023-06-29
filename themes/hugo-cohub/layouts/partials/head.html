@@ -1,4 +1,7 @@
   <head>
+
+    <base target="_top">
+
     <meta charset="utf-8" />
     <title>{{.Title}}</title>
 
@@ -18,8 +21,8 @@
   
 
     {{"<!-- Favicon -->" | safeHTML}}
-    <link rel="shortcut icon" href="{{"images/favicon.ico" | absURL}}" type="image/x-icon" />
-    <link rel="icon" href="{{"images/favicon.png" | absURL}}" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{"images/bandlogo.png" | absURL}}" type="image/x-icon" />
+    <link rel="icon" href="{{"images/bandlogo.png" | absURL}}" type="image/x-icon" />
 
     {{ with .Site.Params.googleAnalytics }}
     {{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}

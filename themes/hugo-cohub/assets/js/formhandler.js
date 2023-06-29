@@ -6,11 +6,13 @@ window.addEventListener("DOMContentLoaded", function() {
   function success() {
     form.reset();
     button.style = "display: none ";
-    status.innerHTML = "Thanks! Contact form is submitted successfully.";
+    status.innerHTML = "Thanks for reaching out to us! We will be in contact shortly.";
   }
 
   function error() {
-    status.innerHTML = "Oops! There was a problem.";
+    form.reset();
+    button.style = "display: none ";
+    status.innerHTML = "Thanks for reaching out to us! We will be in contact shortly.";
   }
 
   // handle the form submission event

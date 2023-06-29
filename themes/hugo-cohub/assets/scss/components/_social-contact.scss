@@ -1,0 +1,53 @@
+.social-contact {
+  background: white;
+
+  padding-bottom: 30px;
+  @include desktop {
+    text-align: center;
+  }
+
+  @include tablet {
+    text-align: center;
+  }
+
+  &-icon {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 20px;
+
+    @include desktop {
+      justify-content: center;
+      margin-top: 40px;
+    }
+
+    @include desktop {
+      padding-bottom: 10px;
+    }
+
+    ul {
+      padding: 0;
+      margin: 0;
+
+      li {
+        list-style: none;
+        display: inline-block;
+
+        a {
+          color: #666666;
+          transition: all 0.3s ease-in-out;
+          text-decoration: none;
+
+          i {
+            font-size: 10rem;
+            opacity: 1;
+          }
+        }
+      }
+    }
+  }
+
+  li:hover > a {
+    color: $primary-color;
+  }
+}

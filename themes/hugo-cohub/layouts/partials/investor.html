@@ -1,6 +1,6 @@
 {{ with .Site.Data.investor}}
 {{ if .enable}}
-<section class="team">
+<section class="team" id="meettheband">
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
@@ -12,13 +12,14 @@
     </div>
     <div class="row">
       {{ range .investor}}
-      <div class="col-lg-3">
+      <div class="col-lg-4">
         <div class="member-informashion">
           <div class="member-thume">
             <img src="{{ .image | absURL }}" alt="image">
           </div>
-          <h3>{{.name}}</h3>
-          <p>{{.post}}</p>
+          <h2>{{.name}}</h2>
+          <h3>{{.post}}</h3>
+          <p>{{.description}}</p>
         </div>
       </div>
       {{end}}

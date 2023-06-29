@@ -1,0 +1,22 @@
+<section class="social-contact">
+    <div class="container">
+      <div class="row">
+        {{ $socialIcon := .Site.Params.social}}
+        <div class="col-lg-7">
+          <div class="footer-icon">
+            <ul>
+              {{ range $socialIcon }}
+                          <li >
+                <a target="_blank" href="{{ .url }}">
+                  <i
+                                      class="{{ .icon }}">
+                  </i>
+                </a>
+                          </li>
+                          {{ end }}
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
