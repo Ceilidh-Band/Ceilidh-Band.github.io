@@ -1,6 +1,6 @@
 baseURL = 'https://ceilidh-band.github.io/'
 languageCode = 'en-us'
-paginate = 6
+paginate = 20
 theme= "hugo-cohub"
 title = 'coHub'
  
